@@ -4,7 +4,7 @@
   <img align="left" alt="Zakhar | Twitter" width="21px" src="https://raw.githubusercontent.com/ZakharYA/ZakharYA/main/images/twitter.svg" />
 </a>
 
-<a href="linkedin.com/in/zakhar-yaitskikh-a52a79213">
+<a href="https://linkedin.com/in/zakhar-yaitskikh-a52a79213">
   <img align="left" alt="Zakhar Yaitskikh | LinkedIn" width="21px" src="https://raw.githubusercontent.com/ZakharYA/ZakharYA/main/images/linkedin.png" />
 </a>
 
