@@ -16,6 +16,10 @@
   <img align="left" alt="Zakhar Yaitskikh | Telegram" width="21px" src="https://raw.githubusercontent.com/ZakharYA/ZakharYA/main/images/telegram.svg" />
 </a>
 
+<a href="skype:live:.cid.64ef69e74ccf2a7f?chat">
+  <img align="left" alt="Zakhar Yaitskikh | Skype" width="21px" src="https://raw.githubusercontent.com/ZakharYA/ZakharYA/main/images/skype.svg" />
+</a>
+
 <br />
 <br />
 
