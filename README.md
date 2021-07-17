@@ -31,7 +31,6 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZakharYA&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Zakhar github stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakharYA&layout=compact&theme=material-palenight" />
 
 ## Social
