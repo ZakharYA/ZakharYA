@@ -46,6 +46,3 @@
 <a href="https://t.me/ghost1337gg">
   <img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-<a href="./skype.md">
-  <img align="left" src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype" />
-</a>
