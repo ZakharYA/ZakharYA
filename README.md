@@ -37,7 +37,7 @@
   <img align="left" src="https://img.shields.io/badge/Zakhar_YP-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
 </a>
 <a href="https://vk.com/ghost1337gg">
-  <img width="140" height="28" align="left" src="https://ucb31ab35f89467af61159688ceb.previews.dropboxusercontent.com/p/thumb/ABd8pUkK1odRcnqyvdRz_czuhWFf9EZPGjPyDuHqdqndZVHNinyODxBFK589svsBLrIY8lWMe6RG6o4lWjgek24AKt4DKnnZ1oQapNOyKoAxHiUj99LMl92iuLO5dfpJPB1SYVxYM2nV6UogGQOrDxEd345wJrbyb-C3H-SblTZuJfYJRExfGikZCxJ2_XETzOYT9SrvWGO5TZqVmM0bWaj_15qL3eloeNF-kHDX1hGDtAnwxLJo-7sk8djDnZ3yau7_lu0_PQJeIllislbvbVQQSasRS5OJHF8KW9PTOoLNa3k0wq1fDyi2vsThys6EPF9HAjqDuhdsIoUZtmdssWvxFmReqZQh1V2Ku7AIzmo5I4A5iU-Quh2v_O7UbizK_pSJ_3hvjS5BURGmwHTdQCotRl6ksoa-9WxaHoyDF1KTjQ/p.png" alt="VK" />
+  <img height="28" align="left" src="https://uc0dc57c5a0096d7178161b4ff9e.previews.dropboxusercontent.com/p/thumb/ABelUyMrXvqhkv-9NhfV88sVCvDXk0PWjSVj7f7OrlRLfY0wueOd1hXSwSwVOEkC9-RndM5bwg9BAREuHNrUKtQL3p4MT3q2UQAg0mLRjELQiELRtmdI4F-tVrQGK54L37YCmmkajRFKtlMQ6n8AOBnsHpiF8aHqhXRFN5KSu62LUEOepOxysmR5-treRbmSP6HwzrAuykFmqGFDD6kYVa3Bm5D_BGoI9thfNDjkY_Yyd78j_EYNr6Xg0dHKmDBSE8BnoVLCMThPI31IwUV4ZI_Ig0CMwynBH0pD0iknPSd3JrGYuGp4dxVMhgf7WqPGH5mbaiuzwjOyKALYuWVDL-uWPX3KyyRlppM8TM-oXxKBG9MnMdXkEu5IqCIzds-n_4wQl_SdXj4pyXAfgeZ5NDmEQ734P2DrtKPEYvdFfTx34g/p.png" alt="VK" />
 </a>
 <a href="https://linkedin.com/in/zakhar-yaitskikh-a52a79213">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
