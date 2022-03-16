@@ -1,9 +1,8 @@
-# Hi there 👋 I'm Zakhar
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Zakhar
 
 - 🇷🇺 I live in Russia, Berdsk.
 - 🤖 Most of the time I'm writing on Javascript, Node.JS, React.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
-- ✉️ You can shoot me an email at [ZakharYA@protonmail.com](mailto:ZakharYA@protonmail.com).
 
 ## 🛠 My fancy badge area
 
