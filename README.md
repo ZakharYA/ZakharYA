@@ -42,6 +42,6 @@
 <a href="https://linkedin.com/in/zakhar-yaitskikh-a52a79213">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
-<a href="https://t.me/ghost1337gg">
+<a href="https://t.me/V_ZakharYA">
   <img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
