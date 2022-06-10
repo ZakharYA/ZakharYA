@@ -36,12 +36,9 @@
 <a href="https://twitter.com/Zakhar_YP">
   <img align="left" src="https://img.shields.io/badge/Zakhar_YP-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://vk.com/ghost1337gg">
-  <img height="28" align="left" src="https://uc0dc57c5a0096d7178161b4ff9e.previews.dropboxusercontent.com/p/thumb/ABelUyMrXvqhkv-9NhfV88sVCvDXk0PWjSVj7f7OrlRLfY0wueOd1hXSwSwVOEkC9-RndM5bwg9BAREuHNrUKtQL3p4MT3q2UQAg0mLRjELQiELRtmdI4F-tVrQGK54L37YCmmkajRFKtlMQ6n8AOBnsHpiF8aHqhXRFN5KSu62LUEOepOxysmR5-treRbmSP6HwzrAuykFmqGFDD6kYVa3Bm5D_BGoI9thfNDjkY_Yyd78j_EYNr6Xg0dHKmDBSE8BnoVLCMThPI31IwUV4ZI_Ig0CMwynBH0pD0iknPSd3JrGYuGp4dxVMhgf7WqPGH5mbaiuzwjOyKALYuWVDL-uWPX3KyyRlppM8TM-oXxKBG9MnMdXkEu5IqCIzds-n_4wQl_SdXj4pyXAfgeZ5NDmEQ734P2DrtKPEYvdFfTx34g/p.png" alt="VK" />
-</a>
 <a href="https://linkedin.com/in/zakhar-yaitskikh-a52a79213">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
-<a href="https://t.me/V_ZakharYA">
+<a href="https://t.me/ZakharYaitskikh">
   <img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
