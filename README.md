@@ -1,11 +1,11 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Zakhar
 
 - 🇷🇺 I live in Russia, Berdsk.
-- 🤖 Most of the time I'm writing on Javascript, Node.JS, React.
+- 🤖 Most of the time I'm writing on Golang, Javascript, Node.JS, React.
 - 🚀 I love pet-projects. They help me grow professionally all my life.
 
 ## 🛠 My fancy badge area
-
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![js](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![nodejs](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -14,7 +14,7 @@
 ![reactjs](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![eslint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![webstorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![vscode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![visualstudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -33,9 +33,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakharYA&layout=compact&theme=material-palenight" />
 
 ## Social
-<a href="https://twitter.com/Zakhar_YP">
-  <img align="left" src="https://img.shields.io/badge/Zakhar_YP-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-</a>
 <a href="https://linkedin.com/in/zakhar-yaitskikh-a52a79213">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
