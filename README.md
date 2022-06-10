@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Zakhar
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Zakhar
 
 - 🚶 I live in Russia, Berdsk.
 - 🤖 Most of the time I'm writing on Golang, Javascript, Node.JS and React.
